@@ -8,7 +8,7 @@ git commit -m "Initial commit"
 
 # Set the main branch and add the remote repository
 git branch -M main
-git remote add origin https://github.com/bipin0107/Automations-Project.git
+git remote add origin https://github.com/bipin0107/BritinsuranceAPITest.git
 
 # Push the changes to the remote repository
 git push -u origin main
